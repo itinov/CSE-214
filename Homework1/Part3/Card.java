@@ -1,9 +1,4 @@
 package Homework1.Part3;
-/*  CSE 214 Fall 2017, Professor Shebuti Rayana
- *  Ivan Tinov
- *  ID# 110255332
- *  Homework 1
- */
 
  /* Card class that implements a Comparable interface to compare the values I specifically set for each of the suits and then ranks */
 public class Card implements Comparable<Card> {
