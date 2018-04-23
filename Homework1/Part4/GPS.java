@@ -1,9 +1,5 @@
 package Homework1.Part4;
-/*  CSE 214 Fall 2017, Professor Shebuti Rayana
- *  Ivan Tinov
- *  ID# 110255332
- *  Homework 1
- */
+
 
 /* GPS class */
 public class GPS { 
