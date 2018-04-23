@@ -1,9 +1,5 @@
 package Homework1.Part2;
-/*  CSE 214 Fall 2017, Professor Shebuti Rayana
- *  Ivan Tinov
- *  ID# 110255332
- *  Homework 1
- */
+
 
 /* CreditCard class and its methods */
 public class CreditCard {
