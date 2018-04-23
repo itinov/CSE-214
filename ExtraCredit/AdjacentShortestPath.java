@@ -1,9 +1,5 @@
 package ExtraCredit;
-/*  CSE 214 Fall 2017, Professor Shebuti Rayana
- *  Ivan Tinov
- *  ID# 110255332
- *  Extra Credit Homework
- */
+
 
 import java.io.File;
 import java.util.Scanner;
